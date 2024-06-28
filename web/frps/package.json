@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "bootstrap": "^3.3.7",
-    "echarts": "^3.5.0",
+    "echarts": "^5.5.1",
     "element-ui": "^2.3.8",
     "humanize-plus": "^1.8.2",
     "vue": "^2.5.16",
